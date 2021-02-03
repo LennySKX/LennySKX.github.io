@@ -21,10 +21,10 @@
 title: Meine awesome Ueberschrift
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Mein erster Versuch, eine Website zu erstellen.
+  Mein erster Versuch, eine Website zu erstellen. Klappt ja so mehr oder weniger.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://lennyskxblog.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Lord_Salt1337
 github_username:  LennySKX
 
 # Build settings
